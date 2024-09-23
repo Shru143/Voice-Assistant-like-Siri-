@@ -1,4 +1,4 @@
-# Voice Assistant
+# Voice Assistant (AI)
 
 This is a Python-based voice assistant that can perform tasks such as retrieving information from Wikipedia and playing YouTube videos based on voice commands. The assistant interacts with the user via speech recognition and can search the web or perform actions as instructed by the user.
 
